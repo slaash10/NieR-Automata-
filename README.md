@@ -21,4 +21,4 @@ Link directly to the CSS THEME :
 __________________________________________________________________________________________________________
 # Dark- Theme
   https://github.com/Wahrandz/NieR-Automata-/blob/master/Screenshots/Dark%20Theme%20Nier.png
- 
+ <blockquote class="imgur-embed-pub" lang="en" data-id="a/RIKxJ"><a href="//imgur.com/RIKxJ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
