@@ -1,0 +1,53 @@
+//META{"name":"NieR_Automata","description":"Update is comming!</br> Based on <a href='https://github.com/0mniscient/Discord-Themes/tree/master/Themes' target='_blank'>Discord Reborn</a> by <a href='https://github.com/0mniscient' target='_blank'>@Omniscient</a> & <a href='https://github.com/cosmicsalad/Discord-Themes-and-Plugins/tree/master/themes/DarkMatter' target='_blank'>DarkMatter</a> by <a href='https://github.com/cosmicsalad' target='_blank'>@Hammock</a> <span style='position: absolute; bottom: 0; left: 0;'>Links: <b><a href='https://git.io/v6BHO' target='_blank'>Github</a></b> | <b><a href='https://discord.gg/FtYVPky' target='_blank'>Discord</a></b> | <b><a href='https://git.io/vXTqM' target='_blank'>Wiki</a></b></span> <span style='position: absolute; bottom: 0; right: 14px;'>By <b><a href='https://github.com/Wahrandz' target='_blank'>@AbdelBoulkelch</a></b></span>","author":"<a href='https://github.com/Wahrandz' target='_blank'>@AbdelBoulkelch</a>","version":""}*//{}
+/* "NieR_Automata by @AbdelBoulkelch */
+/* By AbdelBoulkelch , Ikaraz and thanks to Zerthox for this code */
+
+/* IMPORT CSS FROM GITHUB */
+@import url(https://gitcdn.xyz/repo/Zerthox/ClearVision/master/css/ClearVision_v5.min.css);
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+IMPORTANT: CHANGE BETWEEN DARK AND LIGHT VERSION IN APPEARANCE SETTINGS!
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+================ IMPORTANT LINKS =================
+Github: https://github.com/Wahrandz
+Discord: https://git.io/vMnlu (Join this server !)
+Wiki: https://git.io/vXTqM (Where I create the code)
+Latest version: https://git.io/v6Muk (Theme by  Zerthox)
+Changelog: https://git.io/v6r5N (Look this from Zerthox)
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+============== CUSTOMIZABLE COLORS ===============
+*/
+:root {
+	--main-color: #c2ae65;
+	--hover-color: #4f4426;
+    --background-blur: 0px;
+    --background-brightness: 100%;
+}
+/*
+--------------------------------------------------------------------------------------------------------------------------------------------
+*/
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+========= CUSTOMIZABLE BACKGROUND IMAGE ==========
+*/
+body::after,
+.callout-backdrop,
+.user-popout::before,
+#user-profile-modal .header::before,
+#pubs-container::before,
+.auth-background,
+.auth-tiling-bg,
+.invite-modal .invite-splash,
+.radio-theme.light label,
+.radio-theme.dark label{
+    background-image: url(https://cloud.githubusercontent.com/assets/25139140/22176589/4db97a20-e00e-11e6-8317-4ac3f7a9da04.jpg) !important; /* IMPORTANT: Link must be HTTP! */
+}
+/*
+--------------------------------------------------------------------------------------------------------------------------------------------
+*/
