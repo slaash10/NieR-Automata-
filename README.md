@@ -1,7 +1,7 @@
 # NieR-Automata-
 Theme CSS NieR_Automata (Better Discord)
 
- #French
+ #French-
 Je suis un peu fière de ce thème car je n'ai pas directement pris le code de Zerthox j'ai pris le temps de l'étudier et 
 comprendre et je me suis amusé à réécrire le code.
 Je remercie Zerthox d'avoir pu partager son code, désormais j'essayerais de faire d'autre thème tout en évitant de prendre 
