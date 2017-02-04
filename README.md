@@ -11,18 +11,19 @@ du code de Zerthox et ses amis.
 I am a little proud of this theme because I did not directly take the Zerthox code.
 I took the time of the student and understand and am amused to rewrite the code.
 I thank Zerthox for being able to share his code, now I try to make other themes while avoiding taking from the code of Zerthox and his friends.
-
-# Me on discord
-By AbdelBoukelch#6818
-# Link to dl css
-Link my profile : https://github.com/Wahrandz
-Link directly to the CSS THEME :https://github.com/Wahrandz/NieR-Automata-/tree/master/Theme%20css
-
 # Preview
 # Nier_Automata
 
- LightTheme:
+ # LightTheme <a id="user-content-dark-appearance-5" class="anchor" href="#LightTheme" aria-hidden="true"><svg
 <img src="https://raw.githubusercontent.com/Wahrandz/NieR-Automata-/master/Screenshots/Light%20theme.png" alt="NierLight" style="max-width:100%;">
 
 # DarkTheme
 <img src="https://raw.githubusercontent.com/Wahrandz/NieR-Automata-/master/Screenshots/Dark%20Theme%20Nier.png" alt="NierDark" style="max-width:100%;">
+
+# Link to dl css
+Link my profile : https://github.com/Wahrandz
+Link directly to the CSS THEME :https://github.com/Wahrandz/NieR-Automata-/tree/master/Theme%20css
+
+# About me
+By AbdelBoukelch#6818 --> (Discord)
+Link my profile : https://github.com/Wahrandz
