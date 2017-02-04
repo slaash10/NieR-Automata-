@@ -12,9 +12,11 @@ I am a little proud of this theme because I did not directly take the Zerthox co
 I took the time of the student and understand and am amused to rewrite the code.
 I thank Zerthox for being able to share his code, now I try to make other themes while avoiding taking from the code of Zerthox and his friends.
 
-By AbdelBoukelch#6818 (Name on discord)
+# Me on discord
+By AbdelBoukelch#6818
+# Link to dl css
 Link my profile : https://github.com/Wahrandz
-Link directly to the CSS THEME : 
+Link directly to the CSS THEME :https://github.com/Wahrandz/NieR-Automata-/tree/master/Theme%20css
 
 # Preview
 # Nier_Automata
