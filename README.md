@@ -21,3 +21,4 @@ Link directly to the CSS THEME :
 __________________________________________________________________________________________________________
 # Dark- Theme
   https://raw.githubusercontent.com/Wahrandz/NieR-Automata-/master/Screenshots/Dark%20Theme%20Nier.png
+<img src="https://raw.githubusercontent.com/Wahrandz/NieR-Automata-/master/Screenshots/Dark%20Theme%20Nier.png" alt="NierDark" style="max-width:100%;">
