@@ -9,8 +9,9 @@ du code de Zerthox et ses amis.
 
 # English-
 I am a little proud of this theme because I did not directly take the Zerthox code.
-I took the time of the student and understand and am amused to rewrite the code.
-I thank Zerthox for being able to share his code, now I try to make other themes while avoiding taking from the code of Zerthox and his friends.
+I took the time of the student and understand and I am amused to rewrite the code.
+Thanks Zerthox for being able to share his code, now I try to make other themes while avoiding taking from the code of Zerthox and his friends.
+
 # Preview
 # Nier_Automata
 
