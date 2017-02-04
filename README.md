@@ -20,8 +20,8 @@ Link directly to the CSS THEME :https://github.com/Wahrandz/NieR-Automata-/tree/
 
 # Preview
 # Nier_Automata
-__________________________________________________________________________________________________________
-# LightTheme
+
+ LightTheme:
 <img src="https://raw.githubusercontent.com/Wahrandz/NieR-Automata-/master/Screenshots/Light%20theme.png" alt="NierLight" style="max-width:100%;">
 
 # DarkTheme
