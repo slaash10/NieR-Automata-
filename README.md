@@ -14,7 +14,7 @@ I thank Zerthox for being able to share his code, now I try to make other themes
 # Preview
 # Nier_Automata
 
- # LightTheme <a id="user-content-dark-appearance-5" class="anchor" href="#LightTheme" aria-hidden="true"><svg
+ # LightTheme
 <img src="https://raw.githubusercontent.com/Wahrandz/NieR-Automata-/master/Screenshots/Light%20theme.png" alt="NierLight" style="max-width:100%;">
 
 # DarkTheme
@@ -22,6 +22,7 @@ I thank Zerthox for being able to share his code, now I try to make other themes
 
 # Link to dl css
 Link my profile : https://github.com/Wahrandz
+
 Link directly to the CSS THEME :https://github.com/Wahrandz/NieR-Automata-/tree/master/Theme%20css
 
 # About me
